@@ -1,0 +1,39 @@
+.container{
+	width: 1400px;
+}
+.wrapper{
+	background-image: url(../images/222.png);
+}
+/*.navbar-brand{
+	padding-left: 249px;
+}
+.nav{
+	padding-right: 244px;
+}*/
+.btn-primary{
+	background-color: #fed136;
+	border-color: #fed136;
+}
+.nav-item, .display-4, .btn-primary{
+	text-transform: uppercase;
+}
+.nav-item > a, .hero-content > p,h1{
+	color: white;
+}
+.hero-content{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+.section-content{
+	background-color: #f7f7f7;
+}
+.card-clear{
+	border: none;
+}
+.footer{
+	background-color: #222222;
+}
+.footer-content{
+	color: white;
+}
